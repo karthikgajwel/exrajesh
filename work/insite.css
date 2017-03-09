@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+.container{
+	margin:0 auto;
+	width:1004px;
+}
+
+h1{
+	font-family:Montserrat;
+	font-size:32px;
+	color:#262626;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+.text-border{
+	margin-top:-10px;
+	border-top:3px solid #FDE400;
+	width:50px;
+}
+
+h2{
+	margin-top:70px;
+	font-family:"Open Sans";
+	font-size:21px;
+	color:#262626;
+	text-transform:none;
+	text-align:center;
+	font-weight:normal;
+}
+
+.img-box{
+	margin-left:20px;
+	padding:20px;
+	border:1px solid #FDE400;
+	width:272px;
+	float:left;
+}
+
+h3{
+	margin-top:70px;
+	font-family:"Open Sans";
+	font-size:21px;
+	color:#262626;
+	text-transform:none;
+	font-weight:normal;
+	text-align:center;
+}
+
+.img-main{
+	float: left;
+    width: 502px;
+}
+
+.img-box1{
+	margin-left:20px;
+	padding:20px;
+	border:1px solid #FDE400;
+	width:440px;
+	float:left;
+}
+
+.img-main1{
+	float: left;
+    width: 334px;
+}
+
+.img-box2{
+	margin-left:20px;
+	padding:20px;
+	border:1px solid #FDE400;
+	width:268px;
+	float:left;
+}
+h4{
+    margin-top:30px;
+	font-family:"Open Sans";
+	font-size:21px;
+	color:#262626;
+	text-transform:none;
+	text-align:center;
+	font-weight:normal;
+}
